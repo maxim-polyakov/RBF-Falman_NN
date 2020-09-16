@@ -1,0 +1,21 @@
+C:\Users\maxim\Desktop\VKR Prog\obj\Debug\SAI_NeuralNetworks.Form1.resources
+C:\Users\maxim\Desktop\VKR Prog\obj\Debug\SAI_NeuralNetworks.Form2.resources
+C:\Users\maxim\Desktop\VKR Prog\obj\Debug\VKR Prog.csproj.GenerateResource.Cache
+C:\Users\maxim\Desktop\VKR Prog\bin\Debug\encog-core-cs.dll
+C:\Users\maxim\Desktop\VKR Prog\bin\Debug\encog-core-cs.pdb
+C:\Users\maxim\Desktop\VKR Prog\bin\Debug\encog-core-cs.xml
+C:\Users\maxim\Desktop\VKR Prog\bin\Debug\Falman.exe.config
+C:\Users\maxim\Desktop\VKR Prog\bin\Debug\Falman.exe
+C:\Users\maxim\Desktop\VKR Prog\bin\Debug\Falman.pdb
+C:\Users\maxim\Desktop\VKR Prog\obj\Debug\Falman.Properties.Resources.resources
+C:\Users\maxim\Desktop\VKR Prog\obj\Debug\Falman.exe
+C:\Users\maxim\Desktop\VKR Prog\obj\Debug\Falman.pdb
+C:\Users\maxim\Desktop\VKR Prog\obj\Debug\VKR Prog.csprojResolveAssemblyReference.cache
+C:\Users\maxim\Desktop\VKR Progg\bin\Debug\Falman.exe.config
+C:\Users\maxim\Desktop\VKR Progg\obj\Debug\Falman.exe
+C:\Users\maxim\Desktop\VKR Progg\obj\Debug\Falman.pdb
+C:\Users\maxim\Desktop\VKR Progg\obj\Debug\VKR Prog.csprojResolveAssemblyReference.cache
+C:\Users\maxim\Desktop\VKR Progg\obj\Debug\SAI_NeuralNetworks.Form1.resources
+C:\Users\maxim\Desktop\VKR Progg\obj\Debug\SAI_NeuralNetworks.Form2.resources
+C:\Users\maxim\Desktop\VKR Progg\obj\Debug\Falman.Properties.Resources.resources
+C:\Users\maxim\Desktop\VKR Progg\obj\Debug\VKR Prog.csproj.GenerateResource.Cache

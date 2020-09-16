@@ -1,0 +1,26 @@
+C:\Users\maxim\Desktop\VKR Prog\bin\Release\Falman.exe.config
+C:\Users\maxim\Desktop\VKR Prog\bin\Release\Falman.exe
+C:\Users\maxim\Desktop\VKR Prog\bin\Release\Falman.pdb
+C:\Users\maxim\Desktop\VKR Prog\bin\Release\encog-core-cs.dll
+C:\Users\maxim\Desktop\VKR Prog\bin\Release\encog-core-cs.pdb
+C:\Users\maxim\Desktop\VKR Prog\bin\Release\encog-core-cs.xml
+C:\Users\maxim\Desktop\VKR Prog\obj\Release\VKR Prog.csprojAssemblyReference.cache
+C:\Users\maxim\Desktop\VKR Prog\obj\Release\SAI_NeuralNetworks.Form1.resources
+C:\Users\maxim\Desktop\VKR Prog\obj\Release\SAI_NeuralNetworks.Form2.resources
+C:\Users\maxim\Desktop\VKR Prog\obj\Release\Falman.Properties.Resources.resources
+C:\Users\maxim\Desktop\VKR Prog\obj\Release\VKR Prog.csproj.GenerateResource.cache
+C:\Users\maxim\Desktop\VKR Prog\obj\Release\VKR Prog.csproj.CoreCompileInputs.cache
+C:\Users\maxim\Desktop\VKR Prog\obj\Release\VKR Prog.csproj.CopyComplete
+C:\Users\maxim\Desktop\VKR Prog\obj\Release\Falman.exe
+C:\Users\maxim\Desktop\VKR Prog\obj\Release\Falman.pdb
+C:\Users\maxim\Desktop\VKR Progg\obj\Release\VKR Prog.csprojAssemblyReference.cache
+C:\Users\maxim\Desktop\VKR Progg\obj\Release\Falman.Properties.Resources.resources
+C:\Users\maxim\Desktop\VKR Progg\obj\Release\VKR Prog.csproj.GenerateResource.cache
+C:\Users\maxim\Desktop\VKR Progg\obj\Release\VKR Prog.csproj.CoreCompileInputs.cache
+C:\Users\maxim\Desktop\VKR Progg\obj\Release\Falman.exe
+C:\Users\maxim\Desktop\VKR Progg\obj\Release\Falman.pdb
+C:\Users\maxim\Desktop\VKR Progg\obj\Release\VKRProg.Form1.resources
+C:\Users\maxim\Desktop\VKR Progg\obj\Release\VKRProg.Form2.resources
+C:\Users\maxim\Desktop\VKR Progg\bin\Release\Falman.exe.config
+C:\Users\maxim\Desktop\VKR Progg\bin\Release\Falman.exe
+C:\Users\maxim\Desktop\VKR Progg\bin\Release\Falman.pdb
